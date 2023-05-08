@@ -171,3 +171,12 @@ console.log(maxWord);
 //Note: js and react are single thread
 //Note: while React uses the virtual DOM // reconsilations algorithem/process(compare the previous virsion and updates)
 //
+
+//why we use the js Asynce functions ?
+// => it is bcz
+//web performance optimizations//
+//helps to make non-blocking I/O model
+//that means not to block the other code for executions due to the long-running operations
+//Eg: featching data.
+//it do not create a multi thread but helps in executions to that single thread.
+//makes user....
